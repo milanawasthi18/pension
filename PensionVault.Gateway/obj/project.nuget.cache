@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "x34GskBL6Fc=",
+  "success": true,
+  "projectFilePath": "C:\\pension\\pensionvault_microservices\\PensionVault.Gateway\\PensionVault.Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.9\\microsoft.aspnetcore.authentication.jwtbearer.10.0.9.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.0.1\\microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.0.1\\microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.logging\\8.0.1\\microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.0.1\\microsoft.identitymodel.protocols.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.0.1\\microsoft.identitymodel.protocols.openidconnect.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.0.1\\microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.0.1\\system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\91945\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\pension\\pensionvault_microservices\\PensionVault.Gateway\\PensionVault.Gateway.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\pension\\pensionvault_microservices\\PensionVault.Gateway\\PensionVault.Gateway.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

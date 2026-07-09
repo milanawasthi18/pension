@@ -1,0 +1,6 @@
+@PensionVault.NotificationReporting.Service_HostAddress = http://localhost:5253
+
+GET {{PensionVault.NotificationReporting.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@PensionVault.Identity.Service_HostAddress = http://localhost:5273
+
+GET {{PensionVault.Identity.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

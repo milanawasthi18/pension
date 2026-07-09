@@ -1,0 +1,6 @@
+@PensionVault.EmployerMember.Service_HostAddress = http://localhost:5240
+
+GET {{PensionVault.EmployerMember.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

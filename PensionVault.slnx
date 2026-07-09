@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PensionVault.ClaimsInvestment.Service/PensionVault.ClaimsInvestment.Service.csproj" />
+  <Project Path="PensionVault.EmployerMember.Service/PensionVault.EmployerMember.Service.csproj" />
+  <Project Path="PensionVault.FundOps.Service/PensionVault.FundOps.Service.csproj" />
+  <Project Path="PensionVault.Gateway/PensionVault.Gateway.csproj" />
+  <Project Path="PensionVault.Identity.Service/PensionVault.Identity.Service.csproj" />
+  <Project Path="PensionVault.NotificationReporting.Service/PensionVault.NotificationReporting.Service.csproj" />
+</Solution>
